@@ -1,0 +1,7 @@
+numpy
+pyedflib
+matplotlib
+tensorflow
+scikit-learn
+pywt
+scipy
